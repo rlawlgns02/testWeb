@@ -82,11 +82,12 @@
 
             generateBlocks();
         </script>
-    </main>
+        
     <div style="padding: 1rem; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding-left: 2rem; padding-right: 2rem;"></div>
         <footer>
             <p>자세한 문의는 010-xxxx.xxxx로 연락 주세요</p>
         </footer>
     </div>
+    </main>
 </body>
 </html>
