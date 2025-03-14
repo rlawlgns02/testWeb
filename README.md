@@ -1,4 +1,5 @@
 <html lang="ko">
+    <main>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,7 +39,7 @@
     <header>
         <h1>안녕하세요</h1>
     </header>
-    <main>
+    
         <h2>소개</h2>
         <p>저는 IT인공지능 학부생 김지훈 입니다. </p>
 
