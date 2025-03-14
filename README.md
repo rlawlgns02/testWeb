@@ -1,5 +1,4 @@
 <html lang="ko">
-    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,10 +38,10 @@
     <header>
         <h1>안녕하세요</h1>
     </header>
-    
+    <main>
         <h2>소개</h2>
         <p>저는 IT인공지능 학부생 김지훈 입니다. </p>
-
+        
         <h2>미니게임</h2>
         <div id="game" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
         </div>
@@ -82,11 +81,12 @@
 
             generateBlocks();
         </script>
-     
    
+    <div style="padding: 1rem; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding-left: 2rem; padding-right: 2rem;"></div>
         <footer>
             <p>자세한 문의는 010-xxxx.xxxx로 연락 주세요</p>
         </footer>
-
-    
+    </div> 
+    </main>
 </body>
+</html>
